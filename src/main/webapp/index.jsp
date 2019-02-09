@@ -1,5 +1,5 @@
 <html>
-<body bgcolor='yellow'>
+<body bgcolor=green>
 <center> My Website</center>
     <h2> Welcome to my application </h1>
     <h5> Build with Maven</h5>
